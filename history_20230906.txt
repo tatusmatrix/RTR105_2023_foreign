@@ -1,0 +1,142 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  uname
+    4  uname -a
+    5  man uname
+    6  history
+    7  whoami
+    8  su sc
+    9  whoami
+   10  pwd
+   11  ls
+   12  pwd
+   13  ls
+   14  man ls
+   15  ls -l
+   16  man ls
+   17  ls -l -a
+   18  ls
+   19  ls -l
+   20  ls -l -a
+   21  man ls
+   22  ls
+   23  ls -l
+   24* ls 
+   25  ls -l -a
+   26  ls -la
+   27  ls -al
+   28  ls -lt
+   29  man ls
+   30  pwd
+   31  ls -l
+   32  cd Documents/
+   33  cd
+   34  pwd
+   35  ls -l
+   36  cd Documents/
+   37  pwd
+   38  cd ~
+   39  pwd
+   40  ls
+   41  ls -l
+   42  cd Documents/
+   43  ls -l
+   44  pwd
+   45  ls -l
+   46  ls -la
+   47  pwd
+   48  cd .
+   49  pwd
+   50  cd ..
+   51  pwd
+   52  ls -la
+   53  pwd
+   54  cd .
+   55  pwd
+   56  cd ..
+   57  pwd
+   58  whoami
+   59  ls
+   60  ls -la
+   61  cd ..
+   62  pwd
+   63  ls -la
+   64  pwd
+   65  ls -la
+   66  pwd
+   67  cd .
+   68  pwd
+   69  cd ..
+   70  pwd
+   71  cd ~
+   72  pwd
+   73  cd /
+   74  pwd
+   75  ls
+   76  cd home/
+   77  pwd
+   78  ls
+   79  cd user
+   80  cd /
+   81  pwd
+   82  cd /home/user/
+   83  pwd
+   84  cd /
+   85  pwd
+   86  cd
+   87  cd ~
+   88  cd /
+   89  cd
+   90  ls -lt
+   91  tree 
+   92  pwd
+   93  cd Documents/
+   94  tree
+   95  cd ..
+   96  ls -lt
+   97  cd Downloads/
+   98  tree
+   99  tree ../Documents/
+  100  cd ..
+  101  man mkdir
+  102  ls -lt
+  103  mkdir ABC
+  104  ls -lt
+  105  cd ABC/
+  106  pwd
+  107  ls -la
+  108  cd .
+  109  pwd
+  110  cd ..
+  111  pwd
+  112  mkdir DEF
+  113  ls -la
+  114  ls -l
+  115  cd ABC/
+  116  echo La-la-la
+  117  echo La-la-la > abc.txt
+  118  ls -lta
+  119  cd abc.txt
+  120  cat abc.txt 
+  121  ls -l 
+  122  ls -la 
+  123  ls -l abc.txt 
+  124  echo 1 > one.txt
+  125  ls -l
+  126  echo 12 > two.txt
+  127  ls -l
+  128  echo 123 > three.txt
+  129  ls -l
+  130  ls -lt
+  131  touch epmty.txt
+  132  ls -lt
+  133  cat one.txt 
+  134  echo 1 > one.txt 
+  135  cat one.txt 
+  136  echo 1 >> one.txt 
+  137  ls -l one.txt 
+  138  cat one.txt 
+  139  hexdump -C one.txt 
+  140  cd
+  141  history 
+  142  history > history_20230906.txt
