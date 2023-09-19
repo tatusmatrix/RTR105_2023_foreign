@@ -1,0 +1,92 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -lt
+    4  whoami
+    5  pwd
+    6  ls -lt
+    7  git --version
+    8  git -v
+    9  git --version
+   10  whereis git
+   11  ls -lt /usr/bin/git
+   12  cat /usr/bin/git
+   13  bash
+   14  git clone https://github.com/tatusmatrix/RTR105_2023_foreign
+   15  ls -lt
+   16  git clone https://github.com/tatusmatrix/RTR105_2023_foreign
+   17  git clone https://github.com/tatusmatrix/RTR105_2023_foreign RTR105
+   18  ls -lt
+   19  rmdir RTR105
+   20  man rmdir
+   21  rm RTR105
+   22  man rm
+   23  rm -r RTR105
+   24  rm -rf RTR105
+   25  ls -lt
+   26  cd RTR105_2023_foreign/
+   27  pwd
+   28  ls -lt
+   29  ls -la
+   30  cd .git
+   31  ls -lta
+   32  cat config 
+   33  cat description 
+   34  ls -lta
+   35  cat index 
+   36  hexdump -C config 
+   37  hexdump -C index 
+   38  ls -lt
+   39  pwd
+   40  cd ..
+   41  ls -lta
+   42  pwd
+   43  ls -lta
+   44  ls -lta ./.git
+   45  history > history_20230919_Class_04.txt 
+   46  ls -lta
+   47  ls -lt
+   48  cat history_20230919_Class_04.txt 
+   49  nano git-upload
+   50  nano
+   51  nano git-upload
+   52  ls -lt
+   53  cat git-upload 
+   54  nano git-upload
+   55  ls -lt
+   56  cat git-upload 
+   57  git-upload
+   58  pwd
+   59  whereis pwd
+   60  ls -lt /bin/pwd
+   61  pwd
+   62  ls -lt
+   63  git-upload
+   64  cd ..
+   65  pwd
+   66  git-upload
+   67  cd RTR105_2023_foreign/
+   68  git-upload
+   69  pwd
+   70  whereis pwd
+   71  ls -lt /bin/pwd
+   72  echo $PATH
+   73  /home/user/RTR105_2023_foreign/git-upload
+   74  ls -lt
+   75  chmod 754 git-upload 
+   76  ls -lt
+   77  /home/user/RTR105_2023_foreign/git-upload
+   78  nano git-upload 
+   79  git-upload
+   80  pwd
+   81  PATH=$PATH:~/RTR105_2023_foreign/
+   82  echo $PATH
+   83  git-upload
+   84  history 
+   85  history > h
+   86  nano h
+   87  ls -lt
+   88  ls -lta
+   89  ls -lt
+   90  mv h how_to_prepare_and_start_to_use_git_upload
+   91  ls -lt
+   92  history > history_20230919_Class_04.txt 
