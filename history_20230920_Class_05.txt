@@ -1,0 +1,73 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls -lt
+    5  git clone https://github.com/tatusmatrix/RTR105_2023_foreign
+    6  ls -lt
+    7  cd RTR105_2023_foreign/
+    8  ls -lt
+    9  man ls
+   10  ls -R
+   11  pwd
+   12  tree
+   13  pwd
+   14  ls -lt
+   15  cat Class_02.txt 
+   16  nano Class_02.txt 
+   17  ls -lt
+   18  cat git-upload 
+   19  whereis ls
+   20  ls -lt /bin/ls
+   21  cat /bin/ls
+   22  ls -lt
+   23  cat > filename.txt
+   24  ls -lt
+   25  cat filename.txt 
+   26  echo dsfjslkdsdvsldvmc  clkkdsf > a.txt
+   27  ls -lt
+   28  cat > filename.txt
+   29  ls -lt
+   30  cat filename.txt 
+   31  ls -lt
+   32  rm a
+   33  rm a.txt 
+   34  rm filename.txt 
+   35  ls -lt
+   36  cat > a.txt
+   37  ls -lt
+   38  cat > a.txt
+   39  ls -lt
+   40  cat a.txt 
+   41  cat > b.txt
+   42  ls -lt
+   43  cat b.txt 
+   44  cat a.txt b.txt > c.txt
+   45  ls -lt
+   46  cat c.txt 
+   47  tac git-upload 
+   48  pwd
+   49  ls -lt
+   50  cp b.txt ../Documents/
+   51  cp b.txt ../Documents/bb.txt
+   52  cp b.txt ../Documents/bbb.txt
+   53  mv b.txt ddd.txt
+   54  who
+   55  ifconfig 
+   57  who
+   58  ifconfig 
+   59  ls -lt
+   60* 
+   61  ls -lt
+   62  cd ..
+   63  ls -lt
+   64  rm -rf RTR105_2023_foreign/
+   65  ls -lt
+   66  git clone https://github.com/tatusmatrix/RTR105_2023_foreign
+   67  cd RTR105_2023_foreign/
+   68  ls -lt
+   69  history 
+   70  pwd
+   71  ls -lta
+   72  history > history_20230920_Class_05.txt 
+   73  nano git-upload 
+   74  history > history_20230920_Class_05.txt 
