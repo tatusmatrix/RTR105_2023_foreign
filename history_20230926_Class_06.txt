@@ -1,0 +1,111 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls -lt
+    5  git clone https://github.com/tatusmatrix/RTR105_2023_foreign
+    6  ls -lt
+    7  cd RTR105_2023_foreign/
+    8  pwd
+    9  ls -lt
+   10  mkdir Class_06
+   11  ls -lt
+   12  cd Class_06/
+   13  pwd
+   14  nano first.c
+   15  ls -lt
+   16  ls -lta
+   17  gcc first.c 
+   18  ls -lt
+   19  ls -lta
+   20  cat first.c 
+   21  cat a.out 
+   22  ls -lta
+   23  cat first.c 
+   24  ./a.out 
+   25  ~/RTR105_2023_foreign/Class_06/a.out 
+   26  pwd
+   27  ./a.out 
+   28  cat first.c 
+   29  echo $?
+   30  nano first.c 
+   31  ls -lt
+   32  cat first.c \
+   33  ls -lt
+   34  cat first.c
+   35  gcc first.c 
+   36  ls -lt
+   37  ./a.out 
+   38  echo $?
+   39  nano first.c 
+   40  ls -lt
+   41  gcc --help
+   42  man gcc
+   43  gcc --help
+   44  gcc first.c -o first.out
+   45  ls -lt
+   46  ./first.out 
+   47  echo $?
+   48  ./a.out 
+   49  echo $?
+   50  ls -lt
+   51  cat first.c
+   52  cat first.out 
+   53  ls -lt
+   54  nano first.c 
+   55  gcc first.c -o first.out
+   56  ls -lt
+   57  nano first.c 
+   58  gcc first.c -o first_without_{}.out
+   59  ls -lt
+   60  gcc first.c -o first.out
+   61  ls -lt
+   62  nano first.c 
+   63  gcc first.c -o first_without_int.out
+   64  ls -lt
+   65  ./first_without_int.out 
+   66  nano first.c
+   67  gcc first.c -o first_without_void.out
+   68  ./first_without_void.out 
+   69  nano first.c 
+   70  ls -lt
+   71  nano first.c 
+   72  gcc first.c -o first_with_comments.out
+   73  ls -lt
+   74  ./first_with_comments.out 
+   75  diff first.out first_with_comments.out 
+   76  nano first.c 
+   77  ls -lt
+   78  gcc first.c –Wall –save-temps -o first.out
+   79  gcc first.c -Wall -save-temps -o first.out
+   80  ls -lt
+   81  cat first.c
+   82  cat first.i
+   83  cat first.s
+   84  cat first.o
+   85  gcc -E first.c > first_preprocessor
+   86  ls -lt
+   87  cat first_preprocessor 
+   88* 
+   89  ls -lt
+   90  diff first.i first_preprocessor 
+   91  gcc -S first.c
+   92  ls -lt
+   93  gcc -S first.i
+   94  ls -lt
+   95  gcc -c first.s
+   96  ls -lt
+   97  gcc first.o -o first.out
+   98  ls -lt
+   99  pwd
+  100  cd ..
+  101  pwd
+  102  ls -lta
+  103  pwd
+  104  nano .gitignore
+  105  pwd
+  106  ls -ta
+  107  pwd
+  108  ls -lta
+  109  history 
+  110  ls -lta
+  111  history > history_20230926_Class_06.txt
