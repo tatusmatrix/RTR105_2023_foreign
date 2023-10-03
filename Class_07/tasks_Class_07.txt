@@ -1,0 +1,22 @@
+ 0.1.  git clone https://github.com/userName/repositoryName
+ 0.2.  cd repositoryName -> mkdir Class_07 -> cd Class_07
+ 1. Try exmamples from ORTUS -> 6. nodarbība - C - oper (from cplusplus)
+ 2. Writing of code for short dialogue (name, age -> name, year of birth)
+ 3.1. revise echo -e in shell
+ 3.2. prediction of working of printf with \n, \t, \a etc. without compiling
+
+   #include <stdio.h>
+   int main(void)
+    {
+    printf("Ezis iet \tpa taci\rņu pa \b\bmazu \nmazu taciņu");
+    printf("Kaba\atā nes maciņu");
+    printf("Ole, \vole, ole!\n");
+     
+    return 0;
+    }
+
+   cmd:>./a.out
+   Ezis...
+
+ x.1. Please check programm of scientific conference - https://mttw.rtu.lv
+ x.2. Come and listen any topic You are interested in
