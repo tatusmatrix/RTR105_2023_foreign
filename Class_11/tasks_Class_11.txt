@@ -1,0 +1,11 @@
+Take examples from:
+1. https://github.com/tatusmatrix/RTR105_2023_foreign/ -> Class_11
+2. https://en.cppreference.com/w/c/language/functions
+3. https://riptutorial.com/c/example/3250/calling-a-function-from-another-c-file
+
+-------------------------------------------------
+And then try to solve Programming tasks in ORTUS
+-------------------------------------------------
+
+If You have problem with execution, let me know.
+                             (I am in room 427)
