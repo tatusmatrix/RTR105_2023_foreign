@@ -1,0 +1,63 @@
+  236  git clone https://github.com/tatusmatrix/RTR105_2023_foreign
+  237  cd RTR105_2023_foreign/
+  238  mkdir Class_12
+  239  cd Class_12
+  240  ls -lt
+  241  touch foo.h
+  242  touch foo.c
+  243  touch main.c
+  244  ls -lt
+  245  nano foo.h
+  246  nano foo.c
+  247  nano main.c
+  248  gcc main.c
+  249  gcc foo.c
+  250  ls -lt
+  251  gcc -Wall -c foo.c
+  252  ls -lt
+  253  cat foo.o
+  254  gcc -Wall -c main.c
+  255  ls -lt
+  256  gcc -o testprogram foo.o main.o
+  257  ls -lt
+  258  ./testprogram 
+  259  nano main.c
+  260  nano foo.c
+  261  nano main.c
+  262  nano foo.c
+  263  ls -lt
+  264  ./testprogram 
+  265  gcc -Wall -c foo.c
+  266  ls -lt
+  267  gcc -Wall -c main.c
+  268  ls -lt
+  269  gcc -o testprogram foo.o main.o
+  270  ls -lt
+  271  ./testprogram 
+  272  nano main.c
+  273  nano foo.c
+  274  ls -lt
+  275  gcc -Wall -c foo.c
+  276  nano foo.c
+  277  ls -lt
+  278  gcc -Wall -c foo.c
+  279  gcc -o testprogram foo.o main.o
+  280  ls -lt
+  281  ./testprogram 
+  282  nano foo.c
+  283  gcc -Wall -c foo.c
+  284  gcc -o testprogram foo.o main.o
+  285  ./testprogram 
+  286  nano main.c
+  287  nano foo.c
+  288  gcc -Wall -c foo.c
+  289  gcc -Wall -c main.c
+  290  gcc -o testprogram foo.o main.o
+  291  ./testprogram 
+  292  nano main.c
+  293  ls -lt
+  294  rm testprogram 
+  295  ls -lt
+  296  cd ..
+  297  nano git-upload 
+  298  history > history_20231024_Class_12.txt 
