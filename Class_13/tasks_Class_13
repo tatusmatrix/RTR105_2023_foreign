@@ -1,0 +1,13 @@
+
+ nano example source code
+ gcc example source code
+ ./a.out
+
+ ls -lt
+ cat new_file
+ hexdump -C new_file
+
+
+  3.789652354 - it takes 11 bytes to store this number
+                NB! this number has trancated precision
+  but, let assume it is float number, - for float are necessary 4 bytes
