@@ -1,0 +1,72 @@
+  128  git clone https://github.com/tatusmatrix/RTR105_2023_foreign
+  129  cd RTR105_2023_foreign/
+  130  mkdir
+  131  mkdir Class_14
+  132  cd Class_14
+  133  mv ../../tasks_Class_14 ./
+  134  ls -lt
+  135  nano example_1.gp
+  136  ls -lt
+  137  chmod 744 example_1.gp 
+  138  ls -lt
+  139  ./example_1.gp 
+  140  ls -lt
+  141  nano example_1.gp
+  142  ./example_1.gp 
+  143  nano example_1.gp
+  144  ./example_1.gp 
+  145  nano example_1.gp
+  146  ./example_1.gp 
+  147  nano example_1.gp
+  148  ./example_1.gp 
+  149  nano example_1.gp
+  150  ./example_1.gp 
+  151  nano example_1.gp
+  152  ./example_1.gp 
+  153  nano example_1.gp
+  154  ./example_1.gp 
+  155  nano example_1.gp
+  156  ./example_1.gp 
+  157  nano example_1.gp
+  158  man gnuplot
+  159  nano example_1.gp
+  160  ./example_1.gp 
+  161  nano example_1.gp
+  162  ./example_1.gp 
+  163  nano example_1.gp
+  164  ls -lt
+  165  nano example_1.gp 
+  166  cat example_1.gp 
+  167  ls -lt
+  168  rm fillcrvs.1.png 
+  169  ls -lt
+  170  ./example_1.gp 
+  171  ls -lt
+  172  nano example_1.gp 
+  173  cp example_1.gp sin_series.gp
+  174  ls -lt
+  175  nano sin_series.gp 
+  176  ./sin_series.gp 
+  177  ls -lt
+  178  nano sin_series.gp 
+  179  ./sin_series.gp 
+  180  nano sin_series.gp 
+  181  ./sin_series.gp 
+  182  nano sin_series.gp 
+  183  ./sin_series.gp 
+  184  nano sin_series.gp 
+  185  ./sin_series.gp 
+  186  nano sin_series.gp 
+  187  ./sin_series.gp 
+  188  ls -lt
+  189  nano some.gp
+  190  ls -lt
+  191  whereis gnuplot
+  192  which gnuplot
+  193  ls -lt
+  194  rm some.gp 
+  195  ls -lt
+  196  history 
+  197  cd ..
+  198  ls -lt
+  199  history > history_20231101_Class_14.txt 
