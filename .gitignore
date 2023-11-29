@@ -9,3 +9,6 @@
 
 # ignore all out files
 *.out
+
+# ignore all out files
+*.swp
